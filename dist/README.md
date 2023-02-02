@@ -1,5 +1,5 @@
 <br />
-<h1 align="center">xianzao-cli</h1>
+<h1 align="center">ruchang-cli</h1>
 <p align="center">
 <a href="https://github.com/xianzao/xianzao-cli/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/xianzao/xianzao-cli"></a>
 <a href="https://github.com/xianzao/xianzao-cli/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/xianzao/xianzao-cli"></a>
